@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Deckoner</h1>
+<h1 align="center">Deckoner</h1>
 <h3 align="center">Desarrollador Junior apasionado por la tecnología, los videojuegos y la automatización</h3>
 
 ---
